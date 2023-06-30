@@ -1,4 +1,6 @@
-# Open Command Prompt and insert the corresponding commands 
+# Browse the live website at https://mursaleen.pythonanywhere.com/
+# If you want to setup this project on your local computer, follow the instructions below
+## Open Command Prompt and insert the corresponding commands 
 ## Clone the repository: 
 ```git clone https://github.com/hmursaleen/online_marketplace```
 ## Install Packages: 
